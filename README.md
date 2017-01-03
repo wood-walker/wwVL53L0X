@@ -1,4 +1,12 @@
-# VL53L0X library for Arduino
+# VL53L0X library for Arduino like Frankenstein-DUE
+
+
+Version: 1.0.2<br>
+Release date: 2017 Jan 03<br>
+[www.wood-walker.com](https://www.wood.walker.com/)
+
+Added the possibility to use both SPI lines of the Arduino DUE via 'Wire' and 'Wire1' which are also available on the Frankenstein-DUE of Rainer Radow
+Thank you Luca!
 
 Version: 1.0.1<br>
 Release date: 2016 Dec 08<br>
